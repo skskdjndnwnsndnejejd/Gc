@@ -1,0 +1,11 @@
+{
+  "welcome": "🕊 **Welcome, {username}!**\n━━━━━━━━━━━━━━━━━━━━━\n_We’re delighted to welcome you to Gift Castle — a future-proof escrow platform where every transaction is handled with trust and transparency._\n\n💎 Honesty is our standard.\n⚖️ Your TON is protected here.\n\n⤵️ Choose your next action below:",
+  "lang_choose": "🌐 Choose your language | Выберите язык | اختر اللغة",
+  "seller_role": "🏰 **Role: Seller**\n━━━━━━━━━━━━━━━━━━━━━\nPlease enter the product name, description, and price (TON).",
+  "buyer_role": "🛍 **Role: Buyer**\n━━━━━━━━━━━━━━━━━━━━━\nPlease enter the deal number to join.",
+  "deal_created": "💎 **Deal {id} successfully created!**\n━━━━━━━━━━━━━━━━━━━━━\n**Title:** {title}\n**Description:** {desc}\n**Price:** {price} TON\n\nShare the deal number with your buyer.",
+  "deal_joined": "🤝 **You have joined deal {id}!**\n━━━━━━━━━━━━━━━━━━━━━\nPlease wait for confirmation.",
+  "deal_complete": "✅ **Deal {id} completed!**\n━━━━━━━━━━━━━━━━━━━━━\n_Funds have been transferred to the seller._",
+  "balance": "💰 **Your balance:** {balance} TON",
+  "admin_log": "⚜️ **Gift Castle | Completed Deal**\n━━━━━━━━━━━━━━━━━━━━━\n✅ ID: {id}\n👤 Seller: {seller}\n🛍 Buyer: {buyer}\n💎 Amount: {price} TON\n📅 Date: {date}"
+}
